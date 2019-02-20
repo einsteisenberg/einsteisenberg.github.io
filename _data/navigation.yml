@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "About"
-    url: /about.md
+    url: /_pages/about.md
   - title: "Research"
-    url: /research.md
+    url: /_pages/research.md
   - title: "Blog"
-    url: /blog.md
+    url: /_pages/blog.md
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
