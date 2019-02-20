@@ -11,13 +11,13 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : 'dark' # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin  : 'dark' # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Nate Ristoff"
-title_separator          : "-"
+title_separator          : "|"
 name                     : "Nate Ristoff"
 description              : "Website for Nathaniel Ristoff. Catalogging interests and work in physics such as quantum computing, quantum sensing, and many more topics!"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
