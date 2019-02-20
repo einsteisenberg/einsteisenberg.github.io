@@ -20,7 +20,7 @@ title                    : "Nate Ristoff"
 title_separator          : "-"
 name                     : "Nate Ristoff"
 description              : "Website for Nathaniel Ristoff. Catalogging interests and work in physics such as quantum computing, quantum sensing, and many more topics!"
-url                      : https://einsteisenberg.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -109,7 +109,7 @@ author:
   name             : "Nate Ristoff"
   avatar           : '/assets/images/bio-photo.jpg' # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Physics graduate student working in quantum sensing."
-  location         : "Beeswax, not yours."
+  location         :
   email            :
   links:
     - label: "Email"
