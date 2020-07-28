@@ -1,0 +1,50 @@
+I"\
+<h2 id="brief-explanation">Brief Explanation</h2>
+<p>Every day I read. Every day I forget. In order to combat this vicious cycle of
+read, forget, repeat, I am writing down what I read in my personal notebook…
+the day after reading. This helps me learn what I read (writing down
+explanations) as well as store the information into memory (write the day after).
+Every week I will pick one interesting (completely subjective) thing I learned and
+share it online for the world to see. This is the first of such posts. Please
+be gentle.</p>
+
+<h2 id="relaxation-of-magnetic-nano-particles">Relaxation of Magnetic Nano-Particles</h2>
+<p>This week’s topic focusses on Brownian and Neel relaxation of magnetic nanoparticles.
+When I say relaxation I mean a relaxation of the magnetic dipole moment. If I make
+a strong magnetic field near the particles the dipole moments will align with the
+magnetic field. After I switch off the field the dipoles moments do not stay fixed.
+They decay so if I were to measure the magnetic moment some time later, it would
+be less than before (for those who know: these particles are assumed to be
+superparamagnetic). There are two mechanisms which cause the decay of the magnetic
+moment.</p>
+
+<h3 id="brownian-relaxation">Brownian Relaxation</h3>
+<p>Brownian relaxation occurs due to the Brownian motion of the magnetic nanoparticle
+(pretty self-explanatory). Normally the magnetic nanoparticle is contained within
+a “yolk”. When this yolk moves around in a fluid it bumps other particles, causing
+it to rotate in a random direction. The relaxation time of Brownian motion is given by
+the following equation:</p>
+
+\[\tau = \frac{3\eta V_h}{\text{k}_\text{B} T} \tag{1}\]
+
+<p>where \(\eta\) is the viscosity of the fluid and \(V_h\) is the volume of the yolk.</p>
+
+<h3 id="neel-relaxation">Neel Relaxation</h3>
+<p>Neel relaxation occurs due to the thermalization of the dipole moment itself; it flips
+between two stable orienations due to thermal energy from the surrounding system.
+The relaxation time for Neel relaxation is given by the following equation:</p>
+
+\[\tau_N = \tau_0 \text{e}^{KV_c/\text{k}_\text{B}T} \tag{2}\]
+
+<p>where \(K\) is the anisotropy constant and \(V_c\) is volume of the magnetic
+nanoparticle. \(\tau_0\) is given by:</p>
+
+\[\tau_0 = \frac{\mu}{2\gamma \text{k}_\text{B} T}\frac{1+\alpha^2}{\alpha} \tag{3}\]
+
+<p>where \(\gamma\) is the gyromagnetic ratio for an electron, \(\mu\) is the magnetic
+moment of the magnetic nanoparticle, and \(\alpha\) is a dimensionless damping
+parameter.</p>
+
+<p><br /><br />
+Hopefully soon I will have a post about the governing equations. Till next time!</p>
+:ET
