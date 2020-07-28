@@ -1,0 +1,12 @@
+I"ü<h3 id="neel-relaxation">Neel Relaxation</h3>
+<p>\(\tau_N = \tau_0 \text{e}^{KV_c/\text{k}_\text{B}T} \tag{2}\)</p>
+
+<p>where \(K\) is the anisotropy constant and \(V_c\) is volume of the magnetic
+nanoparticle. \(\tau_0\) is given by:</p>
+
+\[\tau_0 = \frac{\mu}{2\gamma \text{k}_\text{B} T}\frac{1+\alpha^2}{\alpha} \tag{3}\]
+
+<p>where \(\gamma\) is the gyromagnetic ratio for an electron, \(\mu\) is the magnetic
+moment of the magnetic nanoparticle, and \(\alpha\) is a dimensionless damping
+parameter.</p>
+:ET

@@ -1,4 +1,4 @@
-I"§
+I"e
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -7,7 +7,11 @@
         
         <a class="site-title" href="/">Nate Ristoff</a>
         <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/" >Home</a>
+            </li><li class="masthead__menu-item">
               <a href="/about/" >About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/_pages/Blog/index/" >Blog</a>
             </li></ul>
         
         <button class="search__toggle" type="button">
